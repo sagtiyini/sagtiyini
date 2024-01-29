@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagtiyini
 - 👀 I’m interested in programming,phishing,pentesting,hacking,etc
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sagtiyinihuzeifa@gmail.com
 
